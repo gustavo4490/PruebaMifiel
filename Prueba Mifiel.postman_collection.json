@@ -1,0 +1,34 @@
+{
+	"info": {
+		"_postman_id": "52fb88a1-f0a8-4eb9-84bd-8802cfd13545",
+		"name": "Prueba Mifiel",
+		"schema": "https://schema.getpostman.com/json/collection/v2.1.0/collection.json",
+		"_exporter_id": "19597609"
+	},
+	"item": [
+		{
+			"name": "paso 1",
+			"request": {
+				"method": "GET",
+				"header": []
+			},
+			"response": []
+		},
+		{
+			"name": "paso 2",
+			"request": {
+				"method": "GET",
+				"header": []
+			},
+			"response": []
+		},
+		{
+			"name": "paso 3",
+			"request": {
+				"method": "GET",
+				"header": []
+			},
+			"response": []
+		}
+	]
+}
